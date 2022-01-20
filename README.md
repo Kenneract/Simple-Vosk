@@ -23,7 +23,7 @@ Python Modules: *(see `requirements.txt`)*
 You will also need to download Vosk models; one for your language of choice, and (if desired) the speaker-recognition model. Both can be found on the [Vosk models page](https://alphacephei.com/vosk/models). If you don't use speaker recognition, you only need the one model.
 
 ## Examples
-This repository contains some examples of usage; `ExampleSimpleDictation.py`, `ExampleSpeakerRecognition.py`, and `ExampleNonBlocking.py`. Check the [Documentation.md file](https://github.com/Kenneract/Simple-Vosk/Documentation.md) for more in-depth info.
+This repository contains some examples of usage; `ExampleSimpleDictation.py`, `ExampleSpeakerRecognition.py`, and `ExampleNonBlocking.py`. Check the [Documentation.md file](Documentation.md) for more in-depth info.
 
 Below is the simplest implementation to get a fully-functioning speech-recognition system.
 ``` python

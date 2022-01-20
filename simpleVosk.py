@@ -117,7 +117,7 @@ class Speech():
 
 	def stop(self):
 		"""
-		Terminates the background thread, if running, haulting voice recognition.
+		Terminates the background thread, if running, halting voice recognition.
 		"""
 		self.__running=False
 	
